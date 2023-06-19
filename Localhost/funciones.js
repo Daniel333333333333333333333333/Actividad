@@ -1,4 +1,3 @@
-
 var dbVacas = localStorage.getItem("dbVacas"); //Obtener datos de localStorage
 var operacion = "A"; //"A"=agregar; "E"=edtidar
 dbVacas = JSON.parse(dbVacas); // Covertir a objeto
